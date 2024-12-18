@@ -4,9 +4,9 @@
 
 The **Anonymous Complaint System** is designed to provide a platform for students to voice their concerns anonymously. This online system enables students to submit complaints or grievances, ensuring their privacy and confidentiality. The system allows students to select the appropriate committees for their complaints and facilitates the transfer of complaints between committees for resolution. Real-time tracking of complaints and a user-friendly interface ensure an efficient and effective complaint management process.
 
-*Important Note on Code Usage
+*Important Note on Code Usage*
 
-Please note that the codes provided in the **Blackbook** (blackbook.pdf) are **out of order** and may contain errors or outdated practices. We strongly recommend **not copying the code directly** from this source. It is essential to understand the logic and implement the code properly according to the latest standards and best practices.*
+*Please note that the codes provided in the **Blackbook** (blackbook.pdf) are **out of order** and may contain errors or outdated practices. We strongly recommend **not copying the code directly** from this source. It is essential to understand the logic and implement the code properly according to the latest standards and best practices.*
 
 ---
 

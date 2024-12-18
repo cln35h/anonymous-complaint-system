@@ -86,6 +86,6 @@ The **Anonymous Complaint System** is designed to provide a platform for student
 
 ## Installation and Setup
 
-1. Clone this repository to your local machine.
+Clone this repository to your local machine.
    ```bash
    gh repo clone cln35h/anonymous-complaint-system

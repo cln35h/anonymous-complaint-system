@@ -10,6 +10,7 @@ The **Anonymous Complaint System** is designed to provide a platform for student
 *Please note that the codes provided in the [**Blackbook**](https://github.com/cln35h/anonymous-complaint-system/blob/main/Blackbook.pdf)  are **out of order** and may contain errors or outdated practices. We strongly recommend **not copying the code directly** from this source. It is essential to understand the logic and implement the code properly according to the latest standards and best practices.*
 
 ***This template is meant to be a flexible starting point for students, helping them document their projects thoroughly while ensuring they cover essential aspects like features, system setup, requirements, and testing.***
+
 ---
 
 ## Team Members & Responsibilities
@@ -90,3 +91,6 @@ The **Anonymous Complaint System** is designed to provide a platform for student
 Clone this repository to your local machine.
    ```bash
    gh repo clone cln35h/anonymous-complaint-system
+```
+
+If any error/help ping at [Linkedin](https://www.linkedin.com/in/cln35h/) 
